@@ -5,3 +5,7 @@ Role: Tester
 ID: 102
 Name: Gautam
 Role: Developer
+
+ID: 103
+Name: Aryan Raj
+Role: Automation Tester
